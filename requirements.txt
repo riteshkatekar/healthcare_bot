@@ -1,0 +1,16 @@
+flask
+python-dotenv
+groq
+pypdf
+python-docx
+pillow
+pytesseract
+langdetect
+gunicorn
+
+# PDF OCR Support
+pymupdf
+opencv-python
+
+# Optional Advanced OCR
+easyocr
